@@ -1,0 +1,4 @@
+/* Giustifica il testo nei paragrafi */
+.md-content p {
+    text-align: justify;
+}
